@@ -28,4 +28,4 @@
   (values))
 
 (defun mind-beats-the-odds-p ()
-  (gen-random-numbers (same-n-times 0 30) 20000000))
+  (gen-random-numbers (same-n-times 0 24) 30000000))
