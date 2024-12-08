@@ -1,10 +1,10 @@
 ;;;; mind-beats-the-odds.asd
 
 (asdf:defsystem #:mind-beats-the-odds
-  :description "Describe mind-beats-the-odds here"
+  :description "Does mind beat the odds?"
   :author "Mihai Cristian Tănase"
   :license  "MIT License"
-  :version "0.0.1"
+  :version "0.9.0"
   :serial t
   :components ((:file "package")
                (:file "mind-beats-the-odds")))
