@@ -2,6 +2,7 @@
 ### _Mihai Cristian Tănase_
 
 Does mind beat the odds?
+
 Find out by focusing you concentration just after running the main function.
 
 ## How to run
