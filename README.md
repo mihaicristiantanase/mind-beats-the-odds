@@ -12,7 +12,7 @@ Find out by focusing you concentration just after running the main function.
 sbcl \
   --eval '(asdf:load-asd "mind-beats-the-odds.asd")' \
   --eval "(asdf:load-system :mind-beats-the-odds)" \
-  --eval "(mind-beats-the-odds:mind-beats-the-odds)"
+  --eval "(mind-beats-the-odds:mind-beats-the-odds-p)"
 ```
 
 2. With quicklisp
